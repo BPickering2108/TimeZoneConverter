@@ -1,0 +1,7 @@
+﻿  converter.cpp
+C:\Users\Bradley\source\repos\TimeZoneConverter2\converter.cpp(25,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Bradley\source\repos\TimeZoneConverter2\converter.cpp(45,23): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Bradley\source\repos\TimeZoneConverter2\converter.cpp(45,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  TimeZoneConverter2.vcxproj -> C:\Users\Bradley\source\repos\TimeZoneConverter2\Debug\TimeZoneConverter2.exe
